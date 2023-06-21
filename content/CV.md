@@ -17,4 +17,6 @@ title: CV
   * Network science: simulation, sampling, applications to disease dynamics and surveillance
   * Causal Inference Methods in Public Health
   * Disease Ecology and Evolutionary Epidemiology of Viruses
-## Projects
+
+
+
