@@ -13,7 +13,7 @@ permalinks:
 menu:
   main:
     - name: Blog
-      url:/post/
+      url: /post/
     - name: Google Scholar
       url: https://scholar.google.com/citations?user=G7HzfvQAAAAJ&hl=en
     - name: GitHub
