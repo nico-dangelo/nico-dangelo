@@ -12,7 +12,7 @@ title: CV
 * Master of Science in Population Health Research (Biostatistics and Epidemiology), Boston University School of Public Health
 
 ## Research Interests
-* Computational Infectious Epidemiology and Biostatistics
+* Computational Infectious Disease Epidemiology and Biostatistics
   * Agent-based models for infectious for infectious disease interventions
   * Network science: simulation, sampling, applications to disease dynamics and surveillance
   * Causal Inference Methods in Public Health
