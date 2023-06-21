@@ -1,4 +1,4 @@
-baseurl: nico-dangelo.netlify.app/
+baseurl: /
 languageCode: en-US
 title: A Hugo website
 theme: hugo-lithium
