@@ -12,8 +12,8 @@ permalinks:
   post: /:year/:month/:day/:slug/
 menu:
   main:
-    - name: About
-      url: /about/
+    - name: Blog
+      url:/post/
     - name: Google Scholar
       url: https://scholar.google.com/citations?user=G7HzfvQAAAAJ&hl=en
     - name: GitHub
@@ -22,6 +22,8 @@ menu:
       url: https://mstdn.science/@nicod
     - name: CV
       url: /CV/
+    - name: About
+      url: /about/
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
