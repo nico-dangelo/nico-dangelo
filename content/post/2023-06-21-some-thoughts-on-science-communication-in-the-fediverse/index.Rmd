@@ -9,7 +9,7 @@ tags: ["Mastodon"]
 ---
 ## Digital Science communication, past and present
 
-I think it's fair to say that social media has been quite a boon to science communication.
+I think it's fair to say that social media has been quite a boon to science communication. [I hate this sentence]
 Science communication didn't start with social media, or even the internet. Scientists working for government agencies have long given press conferences, testified in public hearings before legislatures, and given lectures and talks open to the public (at universities, museums, etc.). And scientists were some of the first to make use of the internet (I had instructors in undergrad who still used their webpages from the early 90s). But, online social media platforms give virtually any member of the public with an internet connection the opportunity to connect with *individual* scientists at virtually all hours of the day. Even university students don't have that kind of access to experts in a given field. 
 
 ### On the death of Science Twitter
