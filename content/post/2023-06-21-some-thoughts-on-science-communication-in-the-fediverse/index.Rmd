@@ -3,7 +3,7 @@ title: On Science Communication in the Fediverse
 author: Nico D'Angelo
 date: '2023-06-21'
 slug: on-science-communication-in-the-fediverse
-draft: FALSE
+draft: TRUE
 categories: ["scicomm"]
 tags: ["Mastodon"]
 ---
