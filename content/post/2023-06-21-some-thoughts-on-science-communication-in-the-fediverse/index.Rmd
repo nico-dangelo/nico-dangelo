@@ -3,7 +3,7 @@ title: On Science Communication in the Fediverse
 author: Nico D'Angelo
 date: '2023-06-21'
 slug: on-science-communication-in-the-fediverse
-draft: FALSE
+draft: TRUE
 categories: ["scicomm"]
 tags: ["Mastodon"]
 ---
@@ -26,11 +26,11 @@ I can personally attest to how helpful "SciTwitter" was. As graduate students we
 Aside from the ongoing COVID-19 pandemic, I've lost track of how many times I had a programming issue, fired off a quick Tweet with the right hashtag, and gotten better help than StackOverflow has ever offered in a matter of minutes.
 
 
-An algorithmic rage machine, however incidentally helpful it may be, is still a rage machine...
+Whatever value we once found on the platform, it's important to remember a lesson many of us learned the hard way: An algorithmic rage machine, however incidentally helpful it may be, is still a rage machine.
 
 ## Whither Science Mastodon?
 
-While several science-oriented mastodon instances (e.g. mstdn.science, fediscience, ecoevo.social,... ) have been created before and Since the so-called "Twitter Migration" to Mastodon and the broader Fediverse, it is clear that the networks many of us in the sciences had spent years building have largely not be reconstituted 
+While several science-oriented mastodon instances (e.g. mstdn.science, fediscience, ecoevo.social,... ) have been created before and since the so-called "Twitter Migration" to Mastodon and the broader Fediverse, it is clear that the networks many of us in the sciences had spent years building have largely not be reconstituted 
 
 ### On recentralization, or, don't feed the data parasites
 
