@@ -24,6 +24,9 @@ It may be worth revisiting the early promise of social media ( and the internet 
 
 I can personally attest to how helpful "SciTwitter" was.
 
+As graduate students we're told that networking is everything, and social media is an increasingly important tool in those endeavors. As a graduate student (and subsequent researcher) who entered Public Health *en pleine pandemie*, hearing from experts around the world at all times kept me far better informed than the largely superficial and sometimes dangerously inaccurate coverage in mainstream media. I watched as Bioinformaticians and Molecular Epidemiologists alerted each other to sequence data outages in real-time. I got to learn about the science of airborne hazard mitigation, from filtration and ventilation to respirator fitting from environmental engineers and industrial hygienists  whom I never would have met otherwise. COVID-19 aside, I've lost track of how many times I had a programming issue, fired off a quick Tweet with the right hashtag, and gotten better help than StackOverflow has ever offered in a matter of minutes. I  
+
+
 An algorithmic rage machine, however helpful, is still a rage machine...
 
 ## Whither Science Mastodon?
