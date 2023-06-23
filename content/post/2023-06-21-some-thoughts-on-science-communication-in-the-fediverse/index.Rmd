@@ -1,11 +1,11 @@
 ---
-title: On The Uncertain Future of Science Communication in the Fediverse
-author: Nico D'Angelo
-date: '2023-06-22'
-slug: on-the-uncertain-future-of-science-communication-in-the-fediverse
-draft: TRUE
-categories: ["scicomm"]
-tags: ["Mastodon"]
+title: "On The Uncertain Future of Science Communication in the Fediverse"
+author: "Nico D'Angelo"
+date: "2023-06-22"
+slug: "on-the-uncertain-future-of-science-communication-in-the-fediverse"
+draft: yes
+categories: scicomm
+tags: Mastodon
 ---
 ## Digital Science communication, past and present
 
@@ -34,4 +34,4 @@ While several science-oriented mastodon instances (e.g. mstdn.science, fediscien
 
 ### On recentralization, or, don't feed the data parasites
 
-Mastodon has been abuzz with concerns about another problem: the perceived encroachment of the same corporations behind the platforms so many left behind into the Fediverse. Not long after Elon's takeover, Jack Dorsey launched "BlueSky," a comparatively bare bones, invite-only platform based largely on Twitter. It currently does not federate, but it seems likely that will happen in the future. Of seemingly more urgent concern is the news that "Meta," the parent company of Facebook conveniently rebranded to distance itself from Cambridge Analytica and the sentiment analysis-assisted organization of several fascist coup attempts around the world, is planning to launch its own social network based on Mastodon's source, with the apparent intention of federating. 
+Mastodon has been abuzz with concerns about another problem: the perceived encroachment of the same corporations behind the platforms so many left behind into the Fediverse. Not long after Elon's takeover, Jack Dorsey launched "BlueSky," a comparatively bare bones, invite-only platform based largely on Twitter source. It currently does not federate, but it seems likely that will happen in the future. Of seemingly more urgent concern is the news that "Meta," the parent company of Facebook conveniently rebranded to distance itself from Cambridge Analytica and the sentiment analysis feedback loop-driven organization of several fascist coup attempts around the world, is planning to launch its own social network based on Mastodon's source, with the apparent intention of federating. 
