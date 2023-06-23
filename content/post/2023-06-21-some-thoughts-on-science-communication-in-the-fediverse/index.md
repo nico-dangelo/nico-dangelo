@@ -1,8 +1,8 @@
 ---
-title: On Science Communication in the Fediverse
+title: On The Uncertain Future of Science Communication in the Fediverse
 author: Nico D'Angelo
-date: '2023-06-21'
-slug: on-science-communication-in-the-fediverse
+date: '2023-06-22'
+slug: on-the-uncertain-future-of-science-communication-in-the-fediverse
 draft: TRUE
 categories: ["scicomm"]
 tags: ["Mastodon"]
@@ -30,7 +30,8 @@ Whatever value we once found on the platform, it's important to remember a lesso
 
 ## Whither Science Mastodon?
 
-While several science-oriented mastodon instances (e.g. mstdn.science, fediscience, ecoevo.social,... ) have been created before and since the so-called "Twitter Migration" to Mastodon and the broader Fediverse, it is clear that the networks many of us in the sciences had spent years building have largely not be reconstituted 
+While several science-oriented mastodon instances (e.g. mstdn.science, fediscience, ecoevo.social,... ) have been created before and since the so-called "Twitter Migration" to Mastodon and the broader Fediverse, it is clear that the networks many of us in the sciences had spent years building have largely not be reconstituted. Personally, I left a flag on my Twitter account inviting people to migrate to Mastodon with me for months. Some cherished connections did come over within the first few weeks, even helping me navigate the new platform. But as months went on and the "birdsite" became increasingly unstable and hate-filled under Elon's control 
 
 ### On recentralization, or, don't feed the data parasites
 
+Mastodon has been abuzz with concerns about another problem: the perceived encroachment of the same corporations behind the platforms so many left behind into the Fediverse. Not long after Elon's takeover, Jack Dorsey launched "BlueSky," a comparatively bare bones, invite-only platform based largely on Twitter. It currently does not federate, but it seems likely that will happen in the future. Of seemingly more urgent concern is the news that "Meta," the parent company of Facebook conveniently rebranded to distance itself from Cambridge Analytica and the sentiment analysis-assisted organization of several fascist coup attempts around the world, is planning to launch its own social network based on Mastodon's source, with the apparent intention of federating. 
