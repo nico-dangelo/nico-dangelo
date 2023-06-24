@@ -8,19 +8,4 @@ tags: ["Robustness"]
 draft: TRUE
 ---
 
-## Preliminaries
-
-For anyone reading this who is not a network scientist, we need to cover some basic concepts and definitions before we can dive into the properties that make a network robust.Almost every journal article in Network Science starts with this anyway.
-
-### Networks and their representations
-
-A **network** is an abstraction for a set of objects, for which the set of connections between them is important. This can be a group of people (usually called a "social network,") a power grid, an ecosystem of animal or plant species, a public transportation system, etc.Network Science uses tools from a subdiscipline of mathematics called Graph Theory to represent, describe, and analyze networks and processes that occur on them. 
-
-A graph `\(G\)` is a mathematical object, given by a pair of sets: `\(G=(V,E)\)`. Here, `\(V\)` is the set of **vertices** (also called "nodes," "actors," or "agents") representing the objects in the system we're interested in, and `\(E\)` is the set of **edges** (also called "ties," among other things) representing some kind of connection between the nodes in `\(V\)`. By convention, I'll use "nodes" and "edges."  A precise mathematical definition for the edge set `\(E\)` is as a subset of the set of all possible pairs of vertices, `\(E \subseteq V \times V = \{(u,v)\vert u, v \in V\}\)`. An edge can either be **directed**, so that it points from `\(u\)` to `\(v\)` but not from `\(v\)` to `\(u\)`, or **undirected** which means it has no direction, or equivalently, there are edges in both directions and the distinction is unimportant. Formally this means that the pairs we use to represent edges are unordered, i.e., `\((u,v) \equiv (v,u)\)`  
-
-It's also useful to have symbols defined for the cardinalities (sizes) of these sets, as they'll come up often in calculations. It's common to use `\(n=\vert V \vert\)` for the *order* of the graph, the number of nodes in the network and `\(m=\vert E \vert\)` for the number of edges.
-
-An important object for describing graphs is the **adjacency matrix** `\(A\)` associated with it. `\(A\)` is a square symmetric matrix, an array of numbers where each row and column represent the vertices. If two nodes `\(i,j \in V\)` have an edge between them, the `\(ith\)` 
-
-It might be helpful to illustrate this with an example:
 
