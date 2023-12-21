@@ -13,7 +13,7 @@ title: CV
 
 ## Research Interests
 * Computational Infectious Disease Epidemiology and Biostatistics
-  * Agent-based models for infectious for infectious disease interventions
+  * Agent-based models for infectious disease interventions
   * Network science: simulation, sampling, applications to disease dynamics and surveillance
   * Causal Inference Methods in Public Health
   * Disease Ecology and Evolutionary Epidemiology of Viruses
