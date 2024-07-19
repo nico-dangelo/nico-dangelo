@@ -4,7 +4,7 @@ title: CV
 ---
 # Nico D'Angelo
 
-* Staff Research Assistant in Global Health, Boston University School of Public Health
+
 
 ## Education
 
